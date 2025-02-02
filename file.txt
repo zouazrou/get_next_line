@@ -1,5 +1,0 @@
-Hello, World!
-This is the second line.
-And here is the third one.
-
-An empty line above this one
